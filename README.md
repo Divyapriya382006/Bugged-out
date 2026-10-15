@@ -662,6 +662,4 @@ Subscription and licensed supply-chain optimisation software for:
 
 Revenue levers: per-seat subscriptions, per-shipment/vessel tiers, cold-chain hub network add-ons, and compliance-data modules.
 
-| *Teammate* | *Role* |
-
 **Acknowledgements:** Architecture adapted from the *MedGuard* pharmaceutical cold-chain resilience project.
